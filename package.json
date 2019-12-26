@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "jlr-basic-to-blog",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "Taking the gatsby basic starter and transforming into a blog site with Netlify CMS",
+  "version": "0.0.1",
+  "author": "Ramon Colmenares <jlrcolmenares@gmail.com>",
   "dependencies": {
     "gatsby": "^2.18.12",
     "gatsby-image": "^2.2.34",
@@ -22,7 +22,9 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "netlify",
+    "blog"
   ],
   "license": "MIT",
   "scripts": {
@@ -36,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://https://github.com/jlrcolm/gatsby-blogfolio"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
